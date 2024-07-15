@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+CWIN - CÁ CƯỢC TRỰC TUYẾN ĐỈNH CAO TOP ĐẦU CHÂU Á - cwin.charity
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Cwin, thành lập năm 2015, là nhà cái hàng đầu trong lĩnh vực cá cược trực tuyến tại Châu Á, được cấp phép và giám sát bởi Chính phủ Philippines và Ủy ban Giám sát Cờ bạc PAGCOR. Với hơn 7 năm kinh nghiệm, Cwin cung cấp một sân chơi đa dạng và an toàn với các sản phẩm như live casino, bắn cá, game bài đổi thưởng, xổ số và game slot. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Cwin đem đến cho người chơi một giao diện tiên tiến, hệ thống tài chính xử lý giao dịch nhanh chóng và liên tục cập nhật các game mới. Cwin cũng mang đến nhiều khuyến mãi hấp dẫn cho người chơi mới.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 337/17 Thạch Lam, Phú Thạnh, Tân Phú, Hồ Chí Minh, Việt Nam.
 
-Contents
---------
+Phone: 0880317777. Email: info@cwin.charity.
 
-.. toctree::
+Website: https://cwin.charity/
 
-   usage
-   api
+#cwin #nhacaicwin #dangkycwin #trangchucwin #linkcwin
